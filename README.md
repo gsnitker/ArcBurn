@@ -26,4 +26,4 @@ Future phases of this project will build on the feasibility study to include add
 
 ##### Download our project summary [here.](assets/Adv_wildfire_cultural_resources_toolkit_v1.pdf)
 
-##### [Link](https://www.fs.usda.gov/rmrs/projects/arcburn-methods-quantify-predict-and-manage-fire-effects-cultural-resources) to previous ArcBunr project phase summary.
+##### A summary of a previous phase of the ArcBurn project is available [here.](https://www.fs.usda.gov/rmrs/projects/arcburn-methods-quantify-predict-and-manage-fire-effects-cultural-resources) to 
