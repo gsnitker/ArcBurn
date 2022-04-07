@@ -24,3 +24,6 @@ Future phases of this project will build on the feasibility study to include add
 6.	Rowell, E. et al. Coupling terrestrial laser scanning with 3D fuel biomass sampling for advancing wildland fuels characterization. For. Ecol. Manag. **462**, 117945 (2020).
 
 
+##### Downlaod our project summary [here.](assets/Adv_wildfire_cultural_resources_toolkit_v1.pdf)
+
+##### [Link](https://www.fs.usda.gov/rmrs/projects/arcburn-methods-quantify-predict-and-manage-fire-effects-cultural-resources) to previous ArcBunr project phase summary.
