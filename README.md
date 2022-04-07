@@ -1,5 +1,5 @@
-# ArcBurn Phase 2
-## *Integrating fire behavior modeling with archeological material science to evaluate fire risk to cultural resources and support fire management decision processes*
+# ArcBurn
+*A new phase integrating fire behavior modeling with archeological material science to evaluate fire risk to cultural resources and support fire management decision processes*
 
 ### Identifying needs and developing new decision support tools for cultural resources
 
